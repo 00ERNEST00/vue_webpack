@@ -10,3 +10,6 @@ npm run build
 
 
 启动:node build/dev-server
+
+
+浏览器中输入： http://localhost:8888/app/index/index.html
