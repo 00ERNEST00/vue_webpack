@@ -1,4 +1,4 @@
-# vue_webpack
+# vue_webpack express 热加载
 webpack + vuejs 基本配置
 
 
