@@ -2,7 +2,7 @@
 webpack + vuejs 基本配置
 
 
-环境：node 4.3.0
+环境：node 4.3.000
 
 npm install
 
